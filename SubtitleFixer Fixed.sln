@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtitleFixer Fixed", "SubtitleFixer Fixed\SubtitleFixer Fixed.csproj", "{818CC81D-9DB7-41ED-B60F-F759BAED813B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818CC81D-9DB7-41ED-B60F-F759BAED813B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818CC81D-9DB7-41ED-B60F-F759BAED813B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818CC81D-9DB7-41ED-B60F-F759BAED813B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818CC81D-9DB7-41ED-B60F-F759BAED813B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70383153-1345-433D-B055-F8A44A5CC096}
+	EndGlobalSection
+EndGlobal
